@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:43C6AC,100:191654&text=Welcome%20to%200917BA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
+
 <div align="center">
 
 <h3 align="center"><b>Welcome👋</b></h3>
@@ -22,9 +24,13 @@
 </p>
 <br />
 <h3 align="center"><b>👨‍💻 My stats 👨‍💻</b></h3>
-
-![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=nord)
-
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/)
+
+![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba)](https://github.com/0917ba/github-readme-stats)
+
+
 
 </div>
