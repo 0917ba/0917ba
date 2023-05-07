@@ -1,4 +1,7 @@
-<h3 align="center"><b>👨‍💻 Technology Stacks 👨‍💻</b></h3>
+<div align="center">
+
+<h3 align="center"><b>Welcome👋</b></h3>
+<h3 align="center"><b>🛠️ Technology Stacks 🛠️</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -17,6 +20,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<br />
+<h3 align="center"><b>👨‍💻 My stats 👨‍💻</b></h3>
 
+![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=nord)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0917ba&count_bg=%23FFFFFF&title_bg=%2386A2FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/)
+
+</div>
