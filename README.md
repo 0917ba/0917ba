@@ -28,7 +28,7 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/)
 
-![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet)
+![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba)](https://github.com/0917ba/github-readme-stats)
   
