@@ -36,8 +36,7 @@
   
 <br />
 <h3 align="center"><b>😊 About Me 😊</b></h3>
-<a href="https://blog.naver.com/0917ba"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
-<br /><br />
+<br />
   <span style="font-family:NanumSquare;">인천과학고등학교에 재학중인 2학년 학생입니다! :)</span>
 <br /><br />
   
