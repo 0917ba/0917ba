@@ -44,7 +44,8 @@
   
 <h3 align="center"><b>🖥️ Repos 🖥️</b></h3>
 <br />
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0917ba&repo=ISHS-Munshulang)](https://github.com/0917ba/ISHS-Munshulang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0917ba&repo=next-community)](https://github.com/0917ba/next-community)
 
 </div>
