@@ -42,10 +42,4 @@
   <span style="font-family:NanumSquare;">인천과학고등학교에 재학중인 2학년 학생입니다! :)</span>
 <br /><br />
   
-<h3 align="center"><b>🖥️ Repos 🖥️</b></h3>
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0917ba&repo=ISHS-Munshulang)](https://github.com/0917ba/ISHS-Munshulang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0917ba&repo=next-community)](https://github.com/0917ba/next-community)
-
 </div>
