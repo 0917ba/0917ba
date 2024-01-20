@@ -1,46 +1,14 @@
-<div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:43C6AC,100:191654&text=Welcome%20to%20woojin029's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
-<h3 align="center"><b>Welcome😀</b></h3>
-<br />
-<h3 align="center"><b>🛠️ Technology Stacks 🛠️</b></h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <br />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
-  <br />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <br />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</p>
-<br />
-<h3 align="center"><b>👨‍💻 My Stats 👨‍💻</b></h3>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/)
-
-![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba&count_private=true)](https://github.com/0917ba/github-readme-stats)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0917ba&count_bg=%23EDEDED&title_bg=%2343C6AC&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-<br />
-<h3 align="center"><b>😊 About Me 😊</b></h3>
+<h2><b>😊 About Me 😊</b></h2>
 <br />
   <span style="font-family:NanumSquare;">인천과학고등학교에 재학중인 2학년 학생입니다! :)</span>
-<br /><br />
+<br /><br /><br /><br />
+
+  ![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba&count_private=true)](https://github.com/0917ba/github-readme-stats) <br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/) <br/>
+
+<br />
   
-</div>
