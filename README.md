@@ -5,14 +5,14 @@
 <br />
 <span style="font-family:NanumSquare;">인천과학고등학교에 재학중인 2학년 학생입니다! :)</span>
 </div>
-<br /><br />
+<br />
 
 <h2><b> GitHub </b></h2>
 
 <div align='center'>
-  
+
+![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true)
 <a href="https://opgc.me/#/users/0917ba" target="_blank"><img src="https://api.opgc.me/githubs/users/0917ba/tag/?theme=basic" /></a> <br />
-![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba&count_private=true)](https://github.com/0917ba/github-readme-stats) <br />
 
 </div>
@@ -22,8 +22,8 @@
 
 <div align='center'>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/) <br/>
 [![CodeForces Profile](https://cf.leed.at?id=0917ba)](https://codeforces.com/profile/0917ba)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/) <br/>
 
 </div>
 
