@@ -3,7 +3,7 @@
 <h2><b>😊 About Me 😊</b></h2>
 <div align='center'>
 <br />
-인천과학고등학교에 재학중인 2학년 학생입니다! :)
+POSTECH에 재학중인 1학년 학생입니다! :)
 </div>
 <br />
 
