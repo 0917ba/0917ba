@@ -18,7 +18,7 @@ POSTECH에 재학중인 1학년 학생입니다! :)
 </div>
 
 
-<h2><b>Problem Solving</b></h2>
+<h2><b>Competitive Programming & Problem Solving</b></h2>
 
 <div align='center'>
 
