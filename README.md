@@ -3,7 +3,7 @@
 <h2><b>😊 About Me 😊</b></h2>
 <div align='center'>
 <br />
-POSTECH에 재학중인 1학년 학생입니다! :)
+POSTECH에 재학중인 2학년 학생입니다! :)
 </div>
 <br />
 
