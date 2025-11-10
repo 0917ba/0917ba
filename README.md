@@ -6,25 +6,3 @@
 POSTECH에 재학중인 2학년 학생입니다! :)
 </div>
 <br />
-
-<h2><b> GitHub </b></h2>
-
-<div align='center'>
-
-![0917BA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0917ba&show_icons=true&theme=transparnet&count_private=true) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0917ba&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br />
-
-</div>
-
-
-<h2><b>Competitive Programming & Problem Solving</b></h2>
-
-<div align='center'>
-
-[![CodeForces Profile](https://cf.leed.at?id=0917ba)](https://codeforces.com/profile/0917ba)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917ba)](https://solved.ac/0917ba/) <br/>
-
-</div>
-
-<br />
-  
